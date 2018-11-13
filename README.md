@@ -1,2 +1,2 @@
 # fluidlet
-Particle-system for CFD
+Particle-system for computations
